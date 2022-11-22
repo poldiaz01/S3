@@ -5,7 +5,7 @@
 The aim of this task is to do a conversion of a resized video into differents codecs; VP8, VP9, h265 and AV1. I have take the 480p video and I have done all the corresponding conversions, named as ex1_vp8.webm, ex1_vp9.webm, ex_1_h265.mp4 and ex_1.av1.mkv
 Once the 4 videos have been obtained, I create a new video which is it a mosaic made up of the previous 4. This one is called  mosaic.mkv.
 
-By considering different bitrates from each video converted, I have analysed that 
+By considering different bitrates from each video converted, I have analysed that the av1 coded takes a few minutes for doing the conversion, while the other 3 practically instantaneous. Furthermore, the colors of av1 format are not exactly the same as the other three, I would say that are a little less power. 
 
 
 ## Exercise 2
